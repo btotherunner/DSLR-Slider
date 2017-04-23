@@ -10,3 +10,7 @@ ARDUINO HC-06 :: Arduino - 4duino Wireless Modul HC-06 <br>
 <br>
 Wiring like:
 https://github.com/laurb9/StepperDriver
+<br>
+<br>
+First Raw Test
+https://www.youtube.com/watch?v=9vUDKDJuVps&feature=youtu.be
